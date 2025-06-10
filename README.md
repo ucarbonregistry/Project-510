@@ -15,6 +15,11 @@ electricity generation from renewable sources
 -Version 22.0
 
 Sectoral scopes 01 Energy industries (Renewable/Nonrenewable Sources)
+
+The project activity was registered under Clean Development Mechanism (CDM) project with
+registration number 310. The crediting period of this project under CDM was 01/07/2004-30/06/2014.
+PP seeks verification under UCR from 01/07/2014 onwards. Hence, there is no double counting for
+the said project. 
 ____________
 The project activity involves the development and operation of grid-connected wind based electricity
 generation facilities with aggregate installed capacity of 58.2 MW. Later on, 07 WTGs of the project activity were decommissioned due to which total project
